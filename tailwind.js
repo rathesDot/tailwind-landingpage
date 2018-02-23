@@ -194,6 +194,7 @@ module.exports = {
 
   fonts: {
     'sans': [
+      'Raleway',
       '-apple-system',
       'BlinkMacSystemFont',
       'Segoe UI',
@@ -773,6 +774,7 @@ module.exports = {
 
   svgFill: {
     'current': 'currentColor',
+    'none': 'none'
   },
 
 
