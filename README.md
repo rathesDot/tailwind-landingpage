@@ -1,6 +1,8 @@
-# Tailwind CSS Webpack Starter Project
+# Landingpage made with Tailwind CSS
 
-This is an example of a super simple Webpack setup for using [Tailwind CSS](https://tailwindcss.com).
+![Screenshot](/screenshot.png)
+
+Some days ago, out of mood, I started creating this little landing-page using Tailwind CSS. As I'm not interested in using it anymore, I want to give it to the crowd.
 
 To get started, clone the project and install the dependencies:
 
@@ -15,7 +17,7 @@ yarn
 After that, start up Webpack:
 
 ```
-webpack --watch
+yarn watch
 ```
 
 Webpack will watch `/src/styles.css` and `/tailwind.js` and rebuild your stylesheet on every change.
@@ -24,4 +26,6 @@ You can play around with `/index.html` to see the effects of your changes.
 
 ## Contributing
 
-Have a lot of experience with Webpack and suggestions on how we could improve this starter template? We'd love a PR!
+If you want to use this for your projects, just fork this and customize it as much as you need. If you think that there should be some general improvements (I know of some already) feel free to send me an PR!
+
+Otherwise, happy coding!
